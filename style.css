@@ -22,12 +22,4 @@ div {
 
 button {
     padding: 10px 15px;
-    margin-top: 10px;
-    cursor: pointer;
-}
-
-.resultado {
-    margin-top: 20px;
-    font-weight: bold;
-    font-family: "Courier New", Courier, monospace;
 }

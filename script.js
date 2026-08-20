@@ -8,7 +8,7 @@ button.addEventListener("click", calcularTroco)
 
 function calcularTroco() {
     if (inputPreco.value === "" || inputQuantidade.value === "" || inputDinheiro.value === "") {
-        alert("Digite um valor válido em todos os campos.")
+        alert("Digite um valor válido.")
         return
     }
 
